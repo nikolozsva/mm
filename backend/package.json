@@ -1,0 +1,43 @@
+{
+    "name": "valut-node-express-server",
+    "version": "1.0.0",
+    "description": "VALUT server",
+    "main": "src/server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node src/server.js",
+        "dev": "nodemon src/server.js",
+        "format:check": "prettier --check .",
+        "format:write": "prettier --write .",
+        "lint:check": "eslint .",
+        "lint:fix": "eslint --fix ."
+    },
+    "author": "PeakIT",
+    "license": "ISC",
+    "dependencies": {
+        "@google/generative-ai": "^0.8.0",
+        "@openzeppelin/contracts": "^4.8.0",
+        "axios": "^1.4.0",
+        "body-parser": "^1.20.1",
+        "cors": "^2.8.5",
+        "decimal.js": "^10.4.3",
+        "dotenv": "^10.0.0",
+        "express": "^4.18.2",
+        "firebase": "^10.1.0",
+        "firebase-admin": "^11.10.1",
+        "jsonwebtoken": "^8.5.1",
+        "lodash": "^4.17.21"
+    },
+    "devDependencies": {
+        "eslint": "^8.46.0",
+        "eslint-config-airbnb": "^19.0.4",
+        "eslint-config-prettier": "^8.5.0",
+        "eslint-config-standard": "^17.0.0",
+        "eslint-plugin-import": "^2.26.0",
+        "eslint-plugin-n": "^15.5.0",
+        "eslint-plugin-promise": "^6.1.1",
+        "nodemon": "^2.0.20",
+        "prettier": "^2.7.1"
+    },
+    "keywords": []
+}

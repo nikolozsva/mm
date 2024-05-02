@@ -1,0 +1,172 @@
+[
+  {
+    "question": "A website has a video showing how to make a special graph or chart. There is a person speaking, some lists and words describing what to do and some diagrams. I would learn most from:",
+    "answers": [
+      {
+        "text": "seeing the diagrams.",
+        "learningStyle": "visual"
+      },
+      {
+        "text": "Listening.",
+        "learningStyle": "listening"
+      },
+      {
+        "text": "reading the words.",
+        "learningStyle": "reading"
+      }
+    ]
+  },
+  {
+    "question": "I want to find out more about a tour that I am going on. I would:",
+    "answers": [
+      {
+        "text": "use a map and see where the places are.",
+        "learningStyle": "visual"
+      },
+      {
+        "text": "read about the tour on the itinerary.",
+        "learningStyle": "reading"
+      },
+      {
+        "text": "talk with the person who planned the tour or others who are going on the tour.",
+        "learningStyle": "listening"
+      }
+    ]
+  },
+  {
+    "question": "When choosing a career or area of study, these are important for me:",
+    "answers": [
+      {
+        "text": "Communicating with others through discussion.",
+        "learningStyle": "listening"
+      },
+      {
+        "text": "Working with designs, maps or charts.",
+        "learningStyle": "visual"
+      },
+      {
+        "text": "Using words well in written communications.",
+        "learningStyle": "reading"
+      }
+    ]
+  },
+  {
+    "question": "When I am learning I:",
+    "answers": [
+      {
+        "text": "like to talk things through.",
+        "learningStyle": "listening"
+      },
+      {
+        "text": "see patterns in things.",
+        "learningStyle": "visual"
+      },
+      {
+        "text": "read books, articles and handouts.",
+        "learningStyle": "reading"
+      }
+    ]
+  },
+  {
+    "question": "I want to learn how to play a new board game or card game. I would:",
+    "answers": [
+      {
+        "text": "listen to somebody explaining it and ask questions.",
+        "learningStyle": "listening"
+      },
+      {
+        "text": "use the diagrams that explain the various stages, moves and strategies in the game.",
+        "learningStyle": "visual"
+      },
+      {
+        "text": "read the instructions.",
+        "learningStyle": "reading"
+      }
+    ]
+  },
+  {
+    "question": "When learning from the Internet I like:",
+    "answers": [
+      {
+        "text": "interesting design and visual features.",
+        "learningStyle": "visual"
+      },
+      {
+        "text": "interesting written descriptions, lists and explanations.",
+        "learningStyle": "reading"
+      },
+      {
+        "text": "audio channels where I can listen to podcasts or interviews.",
+        "learningStyle": "listening"
+      }
+    ]
+  },
+  {
+    "question": "I want to learn about a new project. I would ask for:",
+    "answers": [
+      {
+        "text": "diagrams to show the project stages with charts of benefits and costs.",
+        "learningStyle": "visual"
+      },
+      {
+        "text": "a written report describing the main features of the project.",
+        "learningStyle": "reading"
+      },
+      {
+        "text": "an opportunity to discuss the project.",
+        "learningStyle": "listening"
+      }
+    ]
+  },
+  {
+    "question": "I prefer a presenter or a teacher who uses:",
+    "answers": [
+      {
+        "text": "question and answer, talk, group discussion, or guest speakers.",
+        "learningStyle": "listening"
+      },
+      {
+        "text": "handouts, books, or readings.",
+        "learningStyle": "reading"
+      },
+      {
+        "text": "diagrams, charts, maps or graphs.",
+        "learningStyle": "visual"
+      }
+    ]
+  },
+  {
+    "question": "I have finished a competition or test and I would like some feedback. I would like to have feedback:",
+    "answers": [
+      {
+        "text": "using a written description of my results.",
+        "learningStyle": "reading"
+      },
+      {
+        "text": "from somebody who talks it through with me.",
+        "learningStyle": "listening"
+      },
+      {
+        "text": "using graphs showing what I achieved.",
+        "learningStyle": "visual"
+      }
+    ]
+  },
+  {
+    "question": "I want to assemble a wooden table that came in parts (kitset). I would learn best from:",
+    "answers": [
+      {
+        "text": "diagrams showing each stage of the assembly.",
+        "learningStyle": "visual"
+      },
+      {
+        "text": "advice from someone who has done it before.",
+        "learningStyle": "listening"
+      },
+      {
+        "text": "written instructions that came with the parts for the table.",
+        "learningStyle": "reading"
+      }
+    ]
+  }
+]
